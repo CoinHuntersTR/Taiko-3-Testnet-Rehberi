@@ -56,7 +56,11 @@ screen -S taiko
 ![detaylar](https://github.com/CoinHuntersTR/Taiko-3-Testnet-Rehberi/assets/111747226/20658ef0-0678-49e0-9e6d-7b6574f12d5d)
 * Bu detayları görmek için oluşturduğunuz App karşında View key bölümüne basıyorsunuz.
 * Aşağıdaki görselde bulunan yere gelmek için;
+
+
 ![2222](https://github.com/CoinHuntersTR/Taiko-3-Testnet-Rehberi/assets/111747226/e4c2f276-e9ac-4741-9723-8a5763546499)
+
+
 ```
 cd simple-taiko-node
 ```
@@ -69,12 +73,22 @@ nano .env
 * L1_ENDPOINT_HTTP= Bu kısıma Alchemyden aldığınız HTTPS adresini yazıyorsunuz
 * L1_ENDPOINT_WS= Bu kısıma Alchemyden aldığınız WSS adresini yazıyorsunuz
 * L1_PROVER_PRIVATE_KEY= Bu kısıma Metamask Private keyinizi yapıştırıyorsunuz
-* 
+ 
 ![metmask](https://user-images.githubusercontent.com/111747226/214062437-69e144d9-528f-4a17-b46a-a747c1d5284c.png)
 
 * CTRL X Y ile çıkıyoruz.
 
-##
+## Node Çalıştırma
+```
+docker compose up
+```
+![log](https://github.com/CoinHuntersTR/Taiko-3-Testnet-Rehberi/assets/111747226/08954550-d569-4de7-bf1c-d2fb08600a28)
+
+* Buna benzer çıktı alıyorsanız sorunsuz şekilde kurulmuş demektir.
+
+### Önemli Not:
+[BURADAN](https://taiko.mirror.xyz/wD7yN8Y5RttbP7kzdtX22GbMg6i18a-Xwet2sshpt48) testnet sürecine ve ödülle ilgili detaylara ulaşabilirsiniz.
+
 
 
 
