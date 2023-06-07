@@ -1,4 +1,4 @@
-# Taiko 3. Node Test Rehberi
+# Taiko Alpha-3 Node Test Rehberi
 ![Taiko-Node-Testi](https://mirror-media.imgix.net/publication-images/4qVW-dWhNmMQr61g91hGt.png?height=512&width=1024&h=512&w=1024&auto=compress)
 
 ## Testnete katılmak için öncelikle 
