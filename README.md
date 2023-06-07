@@ -3,7 +3,7 @@
 
 ## Testnete katılmak için öncelikle 
 * [BURADAN](https://www.alchemy.com/) Alchemy sitesine kaydınızı yaptırın.
-* Sepoila Faucet için [BURADAN](https://sepoliafaucet.com/) testnete katılacağınız cüzdanınıza test ETH isteyin
+* Sepolia Faucet için [BURADAN](https://sepoliafaucet.com/) testnete katılacağınız cüzdanınıza test ETH isteyin
 
 ## Kurulum Öncesi Notlar
 
